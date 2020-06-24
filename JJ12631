@@ -3,13 +3,8 @@
      fname=JJ12631&
      lname=12631&
      custcode=JJ12631&
-     email=jj12631@cccdevjj.com&
-     itemcode=ADIDAS2018&
-     itemdesc=ADIDAS 2018&
-     balance=0&
-     mindue=0&
-     billno=201980&
-     itemcnt=1&
+     email=jj12631@cccdevjj.com
+     itemcnt=0&
      ippsourceamountcode=IPPBALANCE1&
      termcode=FALL&
      amount=51000&
