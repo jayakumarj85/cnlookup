@@ -1,0 +1,32 @@
+<CustomerLookupResultDS>
+<LookupResult>
+<result>0</result>
+<respmessage>Successful lookup</respmessage>
+<last_name>13428</last_name>
+<first_name>JJ13428</first_name>
+<address_1/>
+<address_2/>
+<address_3/>
+<city/>
+<state/>
+<zip/>
+<country>USA</country>
+<area_code/>
+<phone_number/>
+<email_id>JJ13428@cccdevjj.com</email_id>
+<dob>01/01/1970</dob>
+</LookupResult>
+<items>
+<term_code>2018FALL</term_code>
+<item_code>2018FALL</item_code>
+<bill_no>2018FALL</bill_no>
+<bill_desc>2018 Fall</bill_desc>
+<balance_due>-100994.03</balance_due>
+<minimum_due>-100994.03</minimum_due>
+</items>
+<IPPSourceAmount>
+<termcode>2018FALL</termcode>
+<ippsourceamountcode>IPPBALANCE</ippsourceamountcode>
+<amount>-100994.03</amount>
+</IPPSourceAmount> 
+</CustomerLookupResultDS>
