@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomerLookupResultDS>
    <LookupResult>
-      <dob>04/01/1998</dob>
       <result>0</result>
-      <respmessage>Successful&gt; lookup</respmessage>
-      <cust_code>504983</cust_code>
-      <last_name>Hreniuc</last_name>
-      <first_name>Cristina</first_name>
-      <address_1>6401 W Surrey Ave</address_1>
-      <address_2 />
-      <city>Glendale</city>
-      <state>AZ</state>
-      <zip>85304</zip>
-      <country>US</country>
-      <email_id>hreniuc.cristina@yahoo.com</email_id>
-      <alternateid_1>20332882</alternateid_1>
-      <alternateid_1_type>StudentNumber</alternateid_1_type>
-      <custattr_1>5</custattr_1>
+      <respmessage>Successful lookup</respmessage>
+      <cust_code>JAYAKUMAR</cust_code>
+      <last_name>Jayabal</last_name>
+      <first_name>Jayakumar</first_name>
+      <address_1></address_1>
+      <address_2></address_2>
+      <address_3></address_3>
+      <city></city>
+      <state></state>
+      <zip></zip>
+      <country>USA</country>
+      <area_code></area_code>
+      <phone_number></phone_number>
+      <email_id>jayakumar.jayabal@transactcampus.com</email_id>
+      <dob>01/01/1970</dob>
    </LookupResult>
    <notes>
       <multi_note_code>C</multi_note_code>
