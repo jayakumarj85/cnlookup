@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomerLookupResultDS>
+   <LookupResult>
+      <dob>04/01/1998</dob>
+      <result>0</result>
+      <respmessage>Successful&gt; lookup</respmessage>
+      <cust_code>504983</cust_code>
+      <last_name>Hreniuc</last_name>
+      <first_name>Cristina</first_name>
+      <address_1>6401 W Surrey Ave</address_1>
+      <address_2 />
+      <city>Glendale</city>
+      <state>AZ</state>
+      <zip>85304</zip>
+      <country>US</country>
+      <email_id>hreniuc.cristina@yahoo.com</email_id>
+      <alternateid_1>20332882</alternateid_1>
+      <alternateid_1_type>StudentNumber</alternateid_1_type>
+      <custattr_1>5</custattr_1>
+   </LookupResult>
+   <notes>
+      <multi_note_code>C</multi_note_code>
+   </notes>
+   <notes>
+      <multi_note_code>K</multi_note_code>
+   </notes>
+   <notes>
+      <multi_note_code>Z</multi_note_code>
+      <multi_note_exp_date>01/24/2021</multi_note_exp_date>
+   </notes>
+</CustomerLookupResultDS>
